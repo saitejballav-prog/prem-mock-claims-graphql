@@ -30,8 +30,8 @@ const typeDefs = `#graphql
 
 const claims = [
   {
-    dcn: "DCN10004",
-    memberId: "TEST004",
+    dcn: "DCN10006",
+    memberId: "TEST006",
     status: "RECEIVED",
     receivedDate: "2026-09-23"
   },
