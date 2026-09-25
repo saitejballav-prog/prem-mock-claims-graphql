@@ -42,8 +42,8 @@ const claims = [
     receivedDate: "2026-09-22"
   },
   {
-    dcn: "DCN10005",
-    memberId: "TEST005",
+    dcn: "DCN10007",
+    memberId: "TEST007",
     status: "RECEIVED",
     receivedDate: "2026-09-23"
   }
