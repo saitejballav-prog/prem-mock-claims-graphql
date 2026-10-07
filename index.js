@@ -30,21 +30,21 @@ const typeDefs = `#graphql
 
 const claims = [
   {
-    dcn: "DCN10010",
+    dcn: "26174M364411",
     memberId: "TEST010",
     status: "RECEIVED",
     receivedDate: "2026-09-24"
   },
   {
-    dcn: "DCN10011",
+    dcn: "26056M296876",
     memberId: "TEST011",
     status: "PENDING",
     receivedDate: "2026-09-24"
   },
   {
-    dcn: "DCN10007",
+    dcn: "26162M359127",
     memberId: "TEST007",
-    status: "RECEIVED",
+    status: "Processed - Send Back to Member",
     receivedDate: "2026-09-23"
   }
 ];
